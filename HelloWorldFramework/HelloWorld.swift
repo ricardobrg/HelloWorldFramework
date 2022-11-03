@@ -7,8 +7,8 @@
 
 import Foundation
 
-class HelloWorld{
-    func say(){
+public class HelloWorld{
+    public func say(){
         print("Hello World")
     }
 }
